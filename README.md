@@ -11,3 +11,7 @@ To start the app just write linter-peter.
 - Intention tabs for environment blocks
 - Newline after a sentence
 - Format comments (space after %)
+
+# Github
+https://github.com/peter-bsada/Latex-Linter
+
