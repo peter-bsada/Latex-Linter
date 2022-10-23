@@ -1,0 +1,9 @@
+README.md
+latex.py
+replace.json
+setup.py
+Linter.egg-info/PKG-INFO
+Linter.egg-info/SOURCES.txt
+Linter.egg-info/dependency_links.txt
+Linter.egg-info/entry_points.txt
+Linter.egg-info/top_level.txt
